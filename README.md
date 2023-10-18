@@ -15,7 +15,7 @@ This repository contains the source code and content for my personal portfolio w
 
 Welcome to my personal portfolio website! This website serves as a platform for me to showcase my expertise, projects, and experiences in different fields and use the skills of HTML to showcase them. It is designed to provide visitors with an overview of who I am, what I do, and the projects I have worked on.
 
-Visit the live website: [https://coding174.github.io/Mosam-s-Portfolio/](https://coding174.github.io/Mosam-s-Portfolio/)
+Visit the live website: [https://coding174.github.io/Mosams-Portfolio/](https://coding174.github.io/Mosams-Portfolio/)
 
 [Portfolio Screenshot]
 <img width="1348" alt="Screenshot 2023-10-18 at 05 42 05" src="https://github.com/coding174/Mosam-s-Portfolio/assets/78309713/fd9fb75b-b960-4581-9bc3-d1cd6697a38f">
