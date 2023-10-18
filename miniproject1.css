@@ -1,0 +1,221 @@
+/* The website if full page (covers the whole page) */
+body {
+  margin: 0px;
+}
+
+/* The header has a grey background and has a height of 60. */
+header {
+  height: 60px;
+  background-color: grey;
+}
+
+/* The links have no decoration and they have a font, font size, colour and positioned so it's in the middle of the header */
+a {
+  position: relative;
+  text-decoration: none;
+  font-family: miso-bold;
+  font-size: 25px;
+  color: lightgrey;
+  top: 12px;
+}
+
+/* The links have a hover ability which changes colour as you hover over and the height of the hover area. */
+a:hover {
+  background-color: #ddd;
+  color: black;
+  padding: 8px;
+}
+
+/* The name has a different colour to the rest of the links */
+a.title {
+  position: relative;
+  font-family: miso-bold;
+  color: white;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+/* icon for contacting through email */
+a.email {
+  position: relative;
+  top: 8px;
+  float: right;
+}
+
+/* first part of the portfolio defining the background colour, height and */
+.portfolio {
+  height: 600px;
+  background-color: black;
+}
+
+aside {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* sections the writing to the left side */
+section {
+  position: absolute;
+  width: 370px;
+  top: 200px;
+}
+
+/* gives the writing font, font-size and the distance between the login */
+.Welcome {
+  position: relative;
+  font-family: miso-bold;
+  color: white;
+  font-size: 70px;
+  line-height: 65px;
+  margin-bottom: 60px;
+}
+
+/* gives the login button border and styles for the border and styles the login */
+#blog {
+  padding: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+  border-color: white;
+  color: white;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* places the image next to the writing */
+.initials {
+  position: absolute;
+  right: 50px;
+  top: 14em;
+  width: 50%;
+  height: auto;
+}
+
+/* sets up the second section of the portfolio */
+.portfolio-2 {
+  background-color: #f9bf3b;
+  position: relative;
+  height: 700px;
+}
+
+/* makes sure the text about me is in the right */
+.text {
+  position: absolute;
+  width: 45%;
+  top: 4em;
+  right: 0px;
+}
+
+/* gives the writing font, font-size and the distance between the login */
+.Aboutme {
+  position: relative;
+  font-family: miso-bold;
+  color: white;
+  font-size: 70px;
+  line-height: 55px;
+  margin-bottom: 18px;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+p {
+  font-size: 18px;
+}
+
+.mypicture {
+  position: relative;
+  left: 5em;
+  height: 53%;
+}
+
+/* gives the writing font, font-size and the distance between the login */
+#Experience {
+  position: relative;
+  font-family: miso-bold;
+  color: white;
+  font-size: 70px;
+  line-height: 1.2em;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+/* gives box to the experience */
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding BETWEEN each column */
+.row > .column {
+  padding: 5px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.3%; /* Adjusted width */
+}
+
+/* gives the box a colour and there is spacing between the box  */
+.content {
+  background-color: white;
+  padding: 3px;
+  height: 220px;
+}
+
+/* sets up the second section of the portfolio */
+.portfolio3 {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: turquoise;
+}
+
+#Skills {
+  position: relative;
+  font-family: miso-bold;
+  color: white;
+  font-size: 70px;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+/* sets up the unordered list of the portfolio */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* lists the item and gives it design */
+li {
+  border: 1px solid turquoise;
+  background-color: white;
+  padding: 15px;
+}
+
+.top {
+  position: absolute;
+  width: 45%;
+  right: 0px;
+}
+
+#Education {
+  position: relative;
+  font-family: miso-bold;
+  color: white;
+  font-size: 70px;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+figure {
+  float: left;
+}
+
+footer {
+  background-color: grey;
+  height: 95px;
+  font-size: 20px;
+}
