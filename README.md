@@ -18,7 +18,7 @@ Welcome to my personal portfolio website! This website serves as a platform for 
 Visit the live website: [https://coding174.github.io/Mosams-Portfolio/](https://coding174.github.io/Mosams-Portfolio/)
 
 [Portfolio Screenshot]
-<img width="1348" alt="Screenshot 2023-10-18 at 05 42 05" src="https://github.com/coding174/Mosam-s-Portfolio/assets/78309713/fd9fb75b-b960-4581-9bc3-d1cd6697a38f">
+<img width="1348" alt="Screenshot 2023-10-18 at 05 42 05" src="https://github.com/coding174/Mosams-Portfolio/assets/78309713/258c8aac-6f44-4f75-8293-c067a4874c82">
 
 ---
 
